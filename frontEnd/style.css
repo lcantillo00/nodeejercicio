@@ -445,7 +445,7 @@ main{
     width: 80vw;
     margin: auto;
 }
-.textbox{
+/*.textbox{
     max-width: 200px;
     margin-bottom: 40px;
     position: relative;
@@ -466,4 +466,8 @@ main{
 .textbox input:focus ~ .highlight{
     animation: inputHighlight 0.3s ease;
 
+}*/
+
+.prod input{
+    margin-left: 20px;
 }
